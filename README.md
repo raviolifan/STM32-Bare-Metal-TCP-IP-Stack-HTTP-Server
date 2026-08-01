@@ -16,10 +16,9 @@ This project builds upon my previous project:
 
 **STM32 NUCLEO-H563ZI Bare-Metal Ethernet Driver**
 
-> Replace this with your GitHub repository link:
 
 ```text
-https://github.com/<username>/stm32-baremetal-ethernet-driver
+https://github.com/raviolifan/STM32-Bare-Metal-Ethernet-Stack
 ```
 
 The Ethernet driver provides:
